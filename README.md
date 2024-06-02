@@ -9,8 +9,6 @@ Aplicação mobile desenvolvida com React Native e JavaScript, utilizando a Expo
 #### 2. Com o projeto instalado na máquina, rode o comando `yarn install` para baixar todas as dependências e depois `yarn start` para iniciar o bundler.
 #### 3. Escaneie o QR Code ou acesse a URL que serão exibidos no terminal utilizando o Expo Go para visualizar o projeto sendo executado no seu celular.
 Observações: pode ser necessário limpar o cache da aplicação, para isso utilize o comando `yarn start --reset-cache`
-#### 4. Uma alternativa também é baixar o apk gerado com a EAS Build através do link:
-- Android: https://expo.dev/artifacts/eas/u3QfX1bh7ahiArFcRWnzPs.aab
 
 ## Stacks utilizadas 💻
 - React Native (desenvolvimento)
