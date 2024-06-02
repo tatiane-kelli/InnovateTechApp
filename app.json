@@ -12,19 +12,32 @@
       "backgroundColor": "#415a77"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tk.innovatetechapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/splash-logo.png",
         "backgroundColor": "#415a77"
-      }
+      },
+      "package": "com.tk.innovatetechapp"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "67c23d1f-2f0d-46b9-9d1a-0ac5b1224a49"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/67c23d1f-2f0d-46b9-9d1a-0ac5b1224a49"
+    }
   }
 }
